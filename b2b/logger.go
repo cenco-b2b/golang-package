@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func B2bLogger() {
+func Log() {
 	fmt.Println("Hello World")
 }
