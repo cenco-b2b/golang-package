@@ -1,4 +1,4 @@
-package main
+package b2b
 
 import (
 	"fmt"
